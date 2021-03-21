@@ -21,7 +21,7 @@ Some images are shown below:
 
 ![Player's Shoot](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_ATIRANDO.png)
 
-![Player in the Game](https://github.com/JuliazzeDantas/GalaxyShooter-Games/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_MACHUCADO.png)
+![Damage](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_FERIDO.png)
 
 ![Enemy Explosion](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/INIMIGO_EXPLODINDO.png)
 
