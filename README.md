@@ -15,17 +15,17 @@ In this course, they provided the arts and taught us to make the game.
 
 Some images are shown below:
 
-![Game's Initial Menu](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/TELA_INICIAL.png)
+![Game's Initial Menu](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/TELA_INICIAL.png)
 
-![Player in the Game](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/JOGO_EM_ANDAMENTO.png)
+![Player in the Game](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/JOGO_EM_ANDAMENTO.png)
 
-![Player's Shoot](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_ATIRANDO.png)
+![Player's Shoot](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_ATIRANDO.png)
 
-![Player in the Game](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_MACHUCADO.png)
+![Player in the Game](https://github.com/JuliazzeDantas/GalaxyShooter-Games/blob/master/IMAGEM_GALAXY_SHOOTER/PLAYER_MACHUCADO.png)
 
-![Enemy Explosion](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/INIMIGO_EXPLODINDO.png)
+![Enemy Explosion](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/INIMIGO_EXPLODINDO.png)
 
-![Powerup 1: Shield](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/POWERUP_SHIELD.png)
+![Powerup 1: Shield](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/POWERUP_SHIELD.png)
 
-![Powerup 2: Triple Shoot](https://github.com/JuliazzeDantas/Imagens_Dos_Resultados_Dos_Programas/blob/master/IMAGEM_GALAXY_SHOOTER/POWERUP_TRIPLE_SHOOT.png)
+![Powerup 2: Triple Shoot](https://github.com/JuliazzeDantas/GalaxyShooter-Game/blob/master/IMAGEM_GALAXY_SHOOTER/POWERUP_TRIPLE_SHOOT.png)
 
